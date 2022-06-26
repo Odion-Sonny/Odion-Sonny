@@ -2,7 +2,7 @@
  <a target="_blank">
     <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Earth.gif" width="24px" style="max-width:100%;">
   </a>
-  , My name is Odion Sonny-Egbeahie.</h1>
+  , I am Odion Sonny-Egbeahie.</h1>
  
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=Frontend+Software+Engineer...;Data+Engineer...;Tech+Blogger...;Active+Open+Source+Contributor..."/>
