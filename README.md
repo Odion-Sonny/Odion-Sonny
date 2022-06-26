@@ -1,7 +1,7 @@
 <h1>Hi 👋 My name is Odion Sonny-Egbeahie.</h1>
  
 
-Frontend Website Developer, Data Engineering Enthusiast and Open Source Contributor.
+Frontend Software Engineer, Data Engineering and Open Source Contributor.
 ------------------------------------------
 
 
