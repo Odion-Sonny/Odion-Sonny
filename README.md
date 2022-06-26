@@ -9,7 +9,7 @@
 ------------------------------------------
 
 
-Goal-oriented and highly motivated sophomore Electrical/Electronics Engineering student passionate about Front-end Engineering. Passionate about website and application development.     
+Goal-oriented and highly motivated Electrical/Electronics Engineering student passionate about Front-end Engineering. Passionate about website and application development.     
 
 
 
