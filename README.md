@@ -2,14 +2,14 @@
  <a target="_blank">
     <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Earth.gif" width="24px" style="max-width:100%;">
   </a>
-  My name is Odion Sonny-Egbeahie.</h1>
+  , My name is Odion Sonny-Egbeahie.</h1>
  
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=Frontend+Software+Engineer...;Data+Engineer...;Tech+Blogger...;Active+Open+Source+Contributor..."/>
 ------------------------------------------
 
 
-Goal-oriented and highly motivated sophomore electrical/electronics engineering student passionate about back-end engineering. Passionate about website and application development.     
+Goal-oriented and highly motivated sophomore Electrical/Electronics Engineering student passionate about Front-end Engineering. Passionate about website and application development.     
 
 
 
