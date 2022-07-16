@@ -5,7 +5,7 @@
   , I am Odion Sonny-Egbeahie.</h1>
  
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=Frontend+Software+Engineer...;Data+Engineer...;Tech+Blogger...;Active+Open+Source+Contributor..."/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=Software+Engineer...;Data+Engineer...;Tech+Blogger...;Active+Open+Source+Contributor..."/>
 ------------------------------------------
 
 
