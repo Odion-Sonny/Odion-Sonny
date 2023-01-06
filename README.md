@@ -12,8 +12,8 @@
 Goal-oriented and highly motivated Electrical/Electronics Engineering student passionate about Front-end Engineering. Passionate about website and application development.     
 
 
-- 🔭 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 **EEE Department, University of Ibadan Record Management system**
-- 🌱 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 **𝙳jango REST Framework**
+- 🔭 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 **A Student Record Management System for the EEE Department at the University of Ibadan**
+- 🌱 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 **𝙳jango REST Framework and Microservices**
 - 🤝  I'm open to collaborating on **HTML, CSS, JavaScript and Python** projects!
 - ✉️  You can contact me at [davidsonnyegbeahie@gmail.com](mailto:davidsonnyegbeahie@gmail.com)
 
