@@ -9,7 +9,7 @@
 ------------------------------------------
 
 
-Goal-oriented and highly motivated Electrical/Electronics Engineering student passionate about Front-end Engineering. Passionate about website and application development.     
+Goal-oriented and highly motivated Electrical/Electronics Engineering student passionate about Back-end Engineering and Data Engineering.
 
 
 - 🔭 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 **A Student Record Management System for the EEE Department at the University of Ibadan**
