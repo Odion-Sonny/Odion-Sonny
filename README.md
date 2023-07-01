@@ -43,8 +43,9 @@ Goal-oriented and highly motivated Electrical/Electronics Engineering student pa
 ------------------------------------------------------------------------------------
  ### My Github Stats
 
-<!--<p align="center">
+<p align="center">
 <img width="100%" src="https://github-readme-stats.vercel.app/api?username=Odion-Sonny&show_icons=true&theme=dark&title_color=ff8000&text_color=ffffff&bg_color=000000&locale=en&hide_border=true" alt="Odion-Sonny" />
-<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Odion-Sonny&show_icons=true&theme=dark&title_color=ff8000&text_color=ffffff&bg_color=000000&locale=en&layout=compact&hide_border=true" alt="Odion-Sonny" />
+</p>
+<!--<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Odion-Sonny&show_icons=true&theme=dark&title_color=ff8000&text_color=ffffff&bg_color=000000&locale=en&layout=compact&hide_border=true" alt="Odion-Sonny" />
 <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=dapoadedire&theme=highcontrast&hide_border=true" alt="Odion-Sonny" />
 </p>
