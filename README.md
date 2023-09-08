@@ -13,8 +13,8 @@ Goal-oriented and highly motivated Electrical/Electronics Engineering student pa
 
 
 - 🔭 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 **A Student Record Management System for the EEE Department at the University of Ibadan**
-- 🌱 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 **𝙳jango REST Framework and Microservices**
-- 🤝  I'm open to collaborating on **HTML, CSS, JavaScript and Python** projects!
+- 🌱 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 **Django REST Framework and Microservices**
+- 🤝  I'm open to collaborating on **Python, Django, Backend, Azure, and AWS** projects!
 - ✉️  You can contact me at [davidsonnyegbeahie@gmail.com](mailto:davidsonnyegbeahie@gmail.com)
 
 ------------------------------------------------------------------------------------
