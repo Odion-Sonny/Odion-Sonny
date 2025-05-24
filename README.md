@@ -9,13 +9,8 @@
 ------------------------------------------
 
 
-Goal-oriented and highly motivated Electrical/Electronics Engineering student passionate about Back-end Engineering and Data Engineering.
+Goal-oriented and highly motivated Software Engineer passionate about Back-end Engineering and Data Engineering.
 
-
-- 🔭 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 **A Student Record Management System for the EEE Department at the University of Ibadan**
-- 🌱 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 **Django REST Framework**
-- 🤝  I'm open to collaborating on **Python, Django, Backend, Azure, and AWS** projects!
-- ✉️  You can contact me at [davidsonnyegbeahie@gmail.com](mailto:davidsonnyegbeahie@gmail.com)
 
 ------------------------------------------------------------------------------------
 
