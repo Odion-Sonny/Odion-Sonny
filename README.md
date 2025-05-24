@@ -6,8 +6,6 @@
  
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=Software+Engineer...;Data+Engineer...;Tech+Blogger...;Active+Open+Source+Contributor..."/>
-------------------------------------------
-
 
 Goal-oriented and highly motivated Software Engineer passionate about Back-end Engineering and Data Engineering.
 
